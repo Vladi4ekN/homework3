@@ -1,0 +1,6 @@
+my_string = input('Как ваши дела?: ')
+my_string = input('Как ваши дела?: ' .upper())
+my_string = input('Как ваши дела?: ' .lower())
+my_string = input('Как ваши дела?: ' .replace(' ', '#'))
+print(my_string[0])
+print(my_string[-1])
